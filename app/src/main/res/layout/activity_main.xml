@@ -20,13 +20,13 @@
             android:text="Niveau 1" />
 
         <Button
-            android:id="@+id/button6"
+            android:id="@+id/niveau2"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:text="Niveau 2" />
 
         <Button
-            android:id="@+id/button5"
+            android:id="@+id/niveau3"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:text="Niveau 3" />
